@@ -1,0 +1,16 @@
+@charset "utf-8";
+h4{
+    font-family: "Fauna One";
+    color: #438696;
+    text-align: center;
+    border: 1px solid;
+    margin-top: 10;
+    margin-right: 10;
+    margin-left: 1000px;
+    margin-bottom: 10;
+    padding: 50;
+    border-radius: 10px;
+    min-width: 0px;
+    width: 12%;
+    height: 16%;
+    position: static;
